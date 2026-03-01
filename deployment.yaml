@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: java-app
-        image: sowmiyaacr123.azurecr.io/java-app:latest
+        image: neetujenacr2026.azurecr.io/java-app:BUILD_TAG
         ports:
         - containerPort: 80
